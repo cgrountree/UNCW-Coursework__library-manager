@@ -1,4 +1,4 @@
-package assignment2;
+package library;
 
 /**
  * Class that represents loans within the library manager
